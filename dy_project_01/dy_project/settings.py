@@ -76,7 +76,7 @@ DATABASES = {
     "default": {
         "ENGINE": "django.db.backends.mysql",
         "NAME": Config.DB_NAME,
-        "USER":Config.DB_USER
+        "USER": Config.DB_USER,
     }
 }
 
